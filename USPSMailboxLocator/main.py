@@ -32,7 +32,7 @@ import cv2 as cv
 #Identifying the sticker with varying sizes and angles, Viewing the sticker from head on will be
 #way different than viewing it on an angle. the sticker might also mess up the blue detection as it
 #lies within the edges of the mailbox (could lower the score by accident) which means that accounting
-#for it will be very important
+#for it will be very important 
 
 def main():
     imgForEdge = cv.imread('mailbox1.jpg', cv.IMREAD_GRAYSCALE)
