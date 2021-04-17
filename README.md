@@ -1,1 +1,1 @@
-# USPSLocator2021
+To run the code you must keep the same directory structure, there will be photos already in the stickerChecked folder for each algorithm. you can delete those and see them be repopulated. you should be able to run the program if you have openCV, numpy, and matplotlib installed. 
